@@ -9,8 +9,8 @@
  ],
   "theme_color": "#9E9E9E",
   "background_color": "#9E9E9E",
-  "scope":"/memoryapp/",
-  "start_url":"/memoryapp/index.html",
+  "scope":"kvasehus.github.io/Memoryapp/",
+  "start_url":"kvasehus.github.io/Memoryapp/index.html",
   "display": "standalone",
   "orientation": "portrait"  
 }

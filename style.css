@@ -44,8 +44,8 @@ display: inline-block;
 
 .tile {
   background-color: white;
-  width: 8vw; 
-  height: 8vw;
+  width: 22vw; 
+  height: 22vw;
   margin: 1vw;
   transition: 0.3s;
   transform: rotateY(0deg);
